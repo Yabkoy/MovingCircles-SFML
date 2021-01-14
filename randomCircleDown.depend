@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605284620 source:c:\users\yabus\documents\cppsfml\randomcircledown\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<myObjects.h>
+	<time.h>
+	<fstream>
+
+1605284771 c:\users\yabus\documents\cppsfml\randomcircledown\include\myobjects.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1605284851 source:c:\users\yabus\documents\cppsfml\randomcircledown\src\myobjects.cpp
+	"myObjects.h"
+
